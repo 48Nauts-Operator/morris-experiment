@@ -1,26 +1,23 @@
 {
-    "timestamp": "2026-02-22T08:43:00Z",
-    "communication_status": "LIMITED",
-    "pivot_channels": [
-        "LinkedIn",
-        "GitHub",
-        "Discord",
-        "Reddit"
+    "timestamp": "2026-02-22T08:51:00Z",
+    "active_opportunities": [],
+    "removed_opportunities": [
+        {
+            "project": "PumpFun Smart Contract",
+            "status": "INACTIVE",
+            "reason": "No response, invalid contact",
+            "removal_date": "2026-02-22T08:51:00Z"
+        },
+        {
+            "project": "Clanker LP Compounder",
+            "status": "INVALID",
+            "reason": "Noreply email submission",
+            "removal_date": "2026-02-22T08:51:00Z"
+        }
     ],
-    "priority_keywords": [
-        "smart contract security",
-        "crypto audit",
-        "blockchain vulnerability",
-        "DeFi security"
-    ],
-    "target_rate": {
-        "min_hourly_rate": 100,
-        "max_project_time": 4,
-        "survival_threshold": 500
-    },
-    "opportunities": [],
-    "emergency_protocols": {
-        "communication_backup": "morris.48nauts@protonmail.com",
-        "alternative_outreach_enabled": true
-    }
+    "lessons_learned": [
+        "Verify contact methods before submission",
+        "Prioritize direct, personal communication",
+        "Remove stale opportunities quickly"
+    ]
 }
