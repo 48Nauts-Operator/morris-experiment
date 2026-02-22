@@ -1,0 +1,1666 @@
+[
+  {
+    "name": "Bitcoin",
+    "symbol": "btc",
+    "type": "Established Crypto",
+    "market_cap": 1358510072707,
+    "current_price": 67960,
+    "total_volume": 19600265388
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "eth",
+    "type": "Established Crypto",
+    "market_cap": 238130311358,
+    "current_price": 1971.82,
+    "total_volume": 10898088653
+  },
+  {
+    "name": "Tether",
+    "symbol": "usdt",
+    "type": "Established Crypto",
+    "market_cap": 183587282260,
+    "current_price": 0.999759,
+    "total_volume": 35834672537
+  },
+  {
+    "name": "XRP",
+    "symbol": "xrp",
+    "type": "Established Crypto",
+    "market_cap": 86529943869,
+    "current_price": 1.42,
+    "total_volume": 1255025353
+  },
+  {
+    "name": "BNB",
+    "symbol": "bnb",
+    "type": "Established Crypto",
+    "market_cap": 84760759553,
+    "current_price": 621.86,
+    "total_volume": 579199143
+  },
+  {
+    "name": "USDC",
+    "symbol": "usdc",
+    "type": "Established Crypto",
+    "market_cap": 74446922116,
+    "current_price": 0.999966,
+    "total_volume": 4685528717
+  },
+  {
+    "name": "Solana",
+    "symbol": "sol",
+    "type": "Established Crypto",
+    "market_cap": 48292530459,
+    "current_price": 84.98,
+    "total_volume": 2150340371
+  },
+  {
+    "name": "TRON",
+    "symbol": "trx",
+    "type": "Established Crypto",
+    "market_cap": 27234198282,
+    "current_price": 0.287541,
+    "total_volume": 472006849
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "doge",
+    "type": "Established Crypto",
+    "market_cap": 16397131121,
+    "current_price": 0.097152,
+    "total_volume": 516037120
+  },
+  {
+    "name": "Figure Heloc",
+    "symbol": "figr_heloc",
+    "type": "Established Crypto",
+    "market_cap": 15925734315,
+    "current_price": 1.046,
+    "total_volume": 1194271
+  },
+  {
+    "name": "Bitcoin Cash",
+    "symbol": "bch",
+    "type": "Established Crypto",
+    "market_cap": 11499681517,
+    "current_price": 574.94,
+    "total_volume": 326337588
+  },
+  {
+    "name": "WhiteBIT Coin",
+    "symbol": "wbt",
+    "type": "Established Crypto",
+    "market_cap": 10822910189,
+    "current_price": 50.67,
+    "total_volume": 21045406
+  },
+  {
+    "name": "Cardano",
+    "symbol": "ada",
+    "type": "Established Crypto",
+    "market_cap": 10133996187,
+    "current_price": 0.275481,
+    "total_volume": 262426757
+  },
+  {
+    "name": "USDS",
+    "symbol": "usds",
+    "type": "Established Crypto",
+    "market_cap": 9878353711,
+    "current_price": 0.999246,
+    "total_volume": 34810348
+  },
+  {
+    "name": "LEO Token",
+    "symbol": "leo",
+    "type": "Established Crypto",
+    "market_cap": 7518879397,
+    "current_price": 8.16,
+    "total_volume": 5083852
+  },
+  {
+    "name": "Hyperliquid",
+    "symbol": "hype",
+    "type": "Established Crypto",
+    "market_cap": 7019400449,
+    "current_price": 29.46,
+    "total_volume": 84874048
+  },
+  {
+    "name": "Chainlink",
+    "symbol": "link",
+    "type": "Established Crypto",
+    "market_cap": 6236207666,
+    "current_price": 8.81,
+    "total_volume": 203549488
+  },
+  {
+    "name": "Ethena USDe",
+    "symbol": "usde",
+    "type": "Established Crypto",
+    "market_cap": 6193311882,
+    "current_price": 0.99884,
+    "total_volume": 100563578
+  },
+  {
+    "name": "Canton",
+    "symbol": "cc",
+    "type": "Established Crypto",
+    "market_cap": 6008890410,
+    "current_price": 0.158926,
+    "total_volume": 4415231
+  },
+  {
+    "name": "Monero",
+    "symbol": "xmr",
+    "type": "Established Crypto",
+    "market_cap": 5949601338,
+    "current_price": 322.65,
+    "total_volume": 64241107
+  },
+  {
+    "name": "Stellar",
+    "symbol": "xlm",
+    "type": "Established Crypto",
+    "market_cap": 5130297163,
+    "current_price": 0.156091,
+    "total_volume": 133884455
+  },
+  {
+    "name": "USD1",
+    "symbol": "usd1",
+    "type": "Established Crypto",
+    "market_cap": 5030682115,
+    "current_price": 0.99938,
+    "total_volume": 1252699905
+  },
+  {
+    "name": "Rain",
+    "symbol": "rain",
+    "type": "Established Crypto",
+    "market_cap": 4626791265,
+    "current_price": 0.00967745,
+    "total_volume": 30930044
+  },
+  {
+    "name": "Hedera",
+    "symbol": "hbar",
+    "type": "Established Crypto",
+    "market_cap": 4219533387,
+    "current_price": 0.098043,
+    "total_volume": 52392832
+  },
+  {
+    "name": "Litecoin",
+    "symbol": "ltc",
+    "type": "Established Crypto",
+    "market_cap": 4197098442,
+    "current_price": 54.62,
+    "total_volume": 239713244
+  },
+  {
+    "name": "Dai",
+    "symbol": "dai",
+    "type": "Established Crypto",
+    "market_cap": 4187186958,
+    "current_price": 0.999832,
+    "total_volume": 41440956
+  },
+  {
+    "name": "Zcash",
+    "symbol": "zec",
+    "type": "Established Crypto",
+    "market_cap": 4144764255,
+    "current_price": 250.04,
+    "total_volume": 192065294
+  },
+  {
+    "name": "PayPal USD",
+    "symbol": "pyusd",
+    "type": "Established Crypto",
+    "market_cap": 4079069063,
+    "current_price": 0.999578,
+    "total_volume": 73213294
+  },
+  {
+    "name": "Avalanche",
+    "symbol": "avax",
+    "type": "Established Crypto",
+    "market_cap": 3876742907,
+    "current_price": 8.98,
+    "total_volume": 198691929
+  },
+  {
+    "name": "Shiba Inu",
+    "symbol": "shib",
+    "type": "Established Crypto",
+    "market_cap": 3642940687,
+    "current_price": 6.19e-06,
+    "total_volume": 109919668
+  },
+  {
+    "name": "Sui",
+    "symbol": "sui",
+    "type": "Established Crypto",
+    "market_cap": 3582256594,
+    "current_price": 0.931484,
+    "total_volume": 299421006
+  },
+  {
+    "name": "Toncoin",
+    "symbol": "ton",
+    "type": "Established Crypto",
+    "market_cap": 3243715106,
+    "current_price": 1.32,
+    "total_volume": 66255170
+  },
+  {
+    "name": "World Liberty Financial",
+    "symbol": "wlfi",
+    "type": "Established Crypto",
+    "market_cap": 3207442169,
+    "current_price": 0.117801,
+    "total_volume": 182746251
+  },
+  {
+    "name": "Cronos",
+    "symbol": "cro",
+    "type": "Established Crypto",
+    "market_cap": 3139339805,
+    "current_price": 0.076481,
+    "total_volume": 11171864
+  },
+  {
+    "name": "Tether Gold",
+    "symbol": "xaut",
+    "type": "Established Crypto",
+    "market_cap": 2654289646,
+    "current_price": 5096.05,
+    "total_volume": 143295376
+  },
+  {
+    "name": "MemeCore",
+    "symbol": "m",
+    "type": "Established Crypto",
+    "market_cap": 2379624149,
+    "current_price": 1.37,
+    "total_volume": 7837360
+  },
+  {
+    "name": "PAX Gold",
+    "symbol": "paxg",
+    "type": "Established Crypto",
+    "market_cap": 2356104466,
+    "current_price": 5131.94,
+    "total_volume": 114099542
+  },
+  {
+    "name": "Uniswap",
+    "symbol": "uni",
+    "type": "Established Crypto",
+    "market_cap": 2252374317,
+    "current_price": 3.56,
+    "total_volume": 190046875
+  },
+  {
+    "name": "Polkadot",
+    "symbol": "dot",
+    "type": "Established Crypto",
+    "market_cap": 2210945121,
+    "current_price": 1.33,
+    "total_volume": 93620743
+  },
+  {
+    "name": "Mantle",
+    "symbol": "mnt",
+    "type": "Established Crypto",
+    "market_cap": 2044058300,
+    "current_price": 0.628557,
+    "total_volume": 16289133
+  },
+  {
+    "name": "Aave",
+    "symbol": "aave",
+    "type": "Established Crypto",
+    "market_cap": 1801162089,
+    "current_price": 118.6,
+    "total_volume": 266393459
+  },
+  {
+    "name": "Aster",
+    "symbol": "aster",
+    "type": "Established Crypto",
+    "market_cap": 1738384686,
+    "current_price": 0.708495,
+    "total_volume": 85820965
+  },
+  {
+    "name": "Pepe",
+    "symbol": "pepe",
+    "type": "Established Crypto",
+    "market_cap": 1716817870,
+    "current_price": 4.08e-06,
+    "total_volume": 234265977
+  },
+  {
+    "name": "Bittensor",
+    "symbol": "tao",
+    "type": "Established Crypto",
+    "market_cap": 1706826227,
+    "current_price": 177.95,
+    "total_volume": 65410628
+  },
+  {
+    "name": "OKB",
+    "symbol": "okb",
+    "type": "Established Crypto",
+    "market_cap": 1640051966,
+    "current_price": 78.13,
+    "total_volume": 17578460
+  },
+  {
+    "name": "Bitget Token",
+    "symbol": "bgb",
+    "type": "Established Crypto",
+    "market_cap": 1627670730,
+    "current_price": 2.33,
+    "total_volume": 17511416
+  },
+  {
+    "name": "Global Dollar",
+    "symbol": "usdg",
+    "type": "Established Crypto",
+    "market_cap": 1627080855,
+    "current_price": 0.999968,
+    "total_volume": 9113877
+  },
+  {
+    "name": "Ripple USD",
+    "symbol": "rlusd",
+    "type": "Established Crypto",
+    "market_cap": 1557907504,
+    "current_price": 0.999739,
+    "total_volume": 34171335
+  },
+  {
+    "name": "HTX DAO",
+    "symbol": "htx",
+    "type": "Established Crypto",
+    "market_cap": 1554884972,
+    "current_price": 1.7e-06,
+    "total_volume": 15824500
+  },
+  {
+    "name": "Pi Network",
+    "symbol": "pi",
+    "type": "Established Crypto",
+    "market_cap": 1500713164,
+    "current_price": 0.163838,
+    "total_volume": 14380532
+  },
+  {
+    "name": "Sky",
+    "symbol": "sky",
+    "type": "Established Crypto",
+    "market_cap": 1493323441,
+    "current_price": 0.064916,
+    "total_volume": 5350789
+  },
+  {
+    "name": "Ethereum Classic",
+    "symbol": "etc",
+    "type": "Established Crypto",
+    "market_cap": 1364651683,
+    "current_price": 8.76,
+    "total_volume": 88876046
+  },
+  {
+    "name": "NEAR Protocol",
+    "symbol": "near",
+    "type": "Established Crypto",
+    "market_cap": 1321050700,
+    "current_price": 1.026,
+    "total_volume": 110493787
+  },
+  {
+    "name": "BFUSD",
+    "symbol": "bfusd",
+    "type": "Established Crypto",
+    "market_cap": 1318292166,
+    "current_price": 0.998696,
+    "total_volume": 7055446
+  },
+  {
+    "name": "Ondo",
+    "symbol": "ondo",
+    "type": "Established Crypto",
+    "market_cap": 1274576137,
+    "current_price": 0.261732,
+    "total_volume": 33272489
+  },
+  {
+    "name": "Pump.fun",
+    "symbol": "pump",
+    "type": "Established Crypto",
+    "market_cap": 1223626543,
+    "current_price": 0.00207393,
+    "total_volume": 46829577
+  },
+  {
+    "name": "Internet Computer",
+    "symbol": "icp",
+    "type": "Established Crypto",
+    "market_cap": 1197943800,
+    "current_price": 2.18,
+    "total_volume": 57122363
+  },
+  {
+    "name": "Gate",
+    "symbol": "gt",
+    "type": "Established Crypto",
+    "market_cap": 1133103428,
+    "current_price": 7.23,
+    "total_volume": 1400195
+  },
+  {
+    "name": "Cosmos Hub",
+    "symbol": "atom",
+    "type": "Established Crypto",
+    "market_cap": 1131662899,
+    "current_price": 2.29,
+    "total_volume": 30500246
+  },
+  {
+    "name": "POL (ex-MATIC)",
+    "symbol": "pol",
+    "type": "Established Crypto",
+    "market_cap": 1130673770,
+    "current_price": 0.106794,
+    "total_volume": 81084742
+  },
+  {
+    "name": "KuCoin",
+    "symbol": "kcs",
+    "type": "Established Crypto",
+    "market_cap": 1126957908,
+    "current_price": 8.53,
+    "total_volume": 1378405
+  },
+  {
+    "name": "Worldcoin",
+    "symbol": "wld",
+    "type": "Established Crypto",
+    "market_cap": 1087170964,
+    "current_price": 0.380985,
+    "total_volume": 42424967
+  },
+  {
+    "name": "Midnight",
+    "symbol": "night",
+    "type": "Established Crypto",
+    "market_cap": 966022687,
+    "current_price": 0.058204,
+    "total_volume": 8499119
+  },
+  {
+    "name": "Quant",
+    "symbol": "qnt",
+    "type": "Established Crypto",
+    "market_cap": 949822056,
+    "current_price": 65.33,
+    "total_volume": 9071819
+  },
+  {
+    "name": "Morpho",
+    "symbol": "morpho",
+    "type": "Established Crypto",
+    "market_cap": 887397759,
+    "current_price": 1.62,
+    "total_volume": 22818626
+  },
+  {
+    "name": "NEXO",
+    "symbol": "nexo",
+    "type": "Established Crypto",
+    "market_cap": 882089734,
+    "current_price": 0.883004,
+    "total_volume": 7910770
+  },
+  {
+    "name": "Ethena",
+    "symbol": "ena",
+    "type": "Established Crypto",
+    "market_cap": 852291419,
+    "current_price": 0.103672,
+    "total_volume": 73937349
+  },
+  {
+    "name": "USDtb",
+    "symbol": "usdtb",
+    "type": "Established Crypto",
+    "market_cap": 834593146,
+    "current_price": 0.999356,
+    "total_volume": 2926320
+  },
+  {
+    "name": "Kaspa",
+    "symbol": "kas",
+    "type": "Established Crypto",
+    "market_cap": 823475847,
+    "current_price": 0.03072947,
+    "total_volume": 9055685
+  },
+  {
+    "name": "Flare",
+    "symbol": "flr",
+    "type": "Established Crypto",
+    "market_cap": 799032015,
+    "current_price": 0.00941978,
+    "total_volume": 2901714
+  },
+  {
+    "name": "Official Trump",
+    "symbol": "trump",
+    "type": "Established Crypto",
+    "market_cap": 795138598,
+    "current_price": 3.42,
+    "total_volume": 76215036
+  },
+  {
+    "name": "Algorand",
+    "symbol": "algo",
+    "type": "Established Crypto",
+    "market_cap": 778983842,
+    "current_price": 0.087729,
+    "total_volume": 18880092
+  },
+  {
+    "name": "USDD",
+    "symbol": "usdd",
+    "type": "Established Crypto",
+    "market_cap": 748785706,
+    "current_price": 1.0,
+    "total_volume": 2355744
+  },
+  {
+    "name": "Render",
+    "symbol": "render",
+    "type": "Established Crypto",
+    "market_cap": 740050061,
+    "current_price": 1.43,
+    "total_volume": 36635009
+  },
+  {
+    "name": "Filecoin",
+    "symbol": "fil",
+    "type": "Established Crypto",
+    "market_cap": 710473865,
+    "current_price": 0.94223,
+    "total_volume": 74370909
+  },
+  {
+    "name": "XDC Network",
+    "symbol": "xdc",
+    "type": "Established Crypto",
+    "market_cap": 705409005,
+    "current_price": 0.03538596,
+    "total_volume": 12234964
+  },
+  {
+    "name": "Aptos",
+    "symbol": "apt",
+    "type": "Established Crypto",
+    "market_cap": 661887654,
+    "current_price": 0.849545,
+    "total_volume": 43705436
+  },
+  {
+    "name": "VeChain",
+    "symbol": "vet",
+    "type": "Established Crypto",
+    "market_cap": 648663729,
+    "current_price": 0.00754873,
+    "total_volume": 14089242
+  },
+  {
+    "name": "Beldex",
+    "symbol": "bdx",
+    "type": "Established Crypto",
+    "market_cap": 609595225,
+    "current_price": 0.080163,
+    "total_volume": 11027495
+  },
+  {
+    "name": "pippin",
+    "symbol": "pippin",
+    "type": "Established Crypto",
+    "market_cap": 582730022,
+    "current_price": 0.580928,
+    "total_volume": 43626499
+  },
+  {
+    "name": "Arbitrum",
+    "symbol": "arb",
+    "type": "Established Crypto",
+    "market_cap": 556891358,
+    "current_price": 0.095644,
+    "total_volume": 79379081
+  },
+  {
+    "name": "Bonk",
+    "symbol": "bonk",
+    "type": "Established Crypto",
+    "market_cap": 539594982,
+    "current_price": 6.13e-06,
+    "total_volume": 30239809
+  },
+  {
+    "name": "GHO",
+    "symbol": "gho",
+    "type": "Established Crypto",
+    "market_cap": 527218447,
+    "current_price": 0.999576,
+    "total_volume": 4236442
+  },
+  {
+    "name": "\u200b\u200bStable",
+    "symbol": "stable",
+    "type": "Established Crypto",
+    "market_cap": 521804803,
+    "current_price": 0.02896357,
+    "total_volume": 19652692
+  },
+  {
+    "name": "Jupiter",
+    "symbol": "jup",
+    "type": "Established Crypto",
+    "market_cap": 501095443,
+    "current_price": 0.154472,
+    "total_volume": 15549691
+  },
+  {
+    "name": "TrueUSD",
+    "symbol": "tusd",
+    "type": "Established Crypto",
+    "market_cap": 494160407,
+    "current_price": 0.999275,
+    "total_volume": 4422530
+  },
+  {
+    "name": "USDai",
+    "symbol": "usdai",
+    "type": "Established Crypto",
+    "market_cap": 476733155,
+    "current_price": 0.99983,
+    "total_volume": 4798434
+  },
+  {
+    "name": "Decred",
+    "symbol": "dcr",
+    "type": "Established Crypto",
+    "market_cap": 472729617,
+    "current_price": 27.2,
+    "total_volume": 7340098
+  },
+  {
+    "name": "Fasttoken",
+    "symbol": "ftn",
+    "type": "Established Crypto",
+    "market_cap": 471519761,
+    "current_price": 1.087,
+    "total_volume": 10988625
+  },
+  {
+    "name": "Sei",
+    "symbol": "sei",
+    "type": "Established Crypto",
+    "market_cap": 470758140,
+    "current_price": 0.069975,
+    "total_volume": 25167986
+  },
+  {
+    "name": "EURC",
+    "symbol": "eurc",
+    "type": "Established Crypto",
+    "market_cap": 458450947,
+    "current_price": 1.18,
+    "total_volume": 5953502
+  },
+  {
+    "name": "Stacks",
+    "symbol": "stx",
+    "type": "Established Crypto",
+    "market_cap": 441683354,
+    "current_price": 0.249054,
+    "total_volume": 7704217
+  },
+  {
+    "name": "PancakeSwap",
+    "symbol": "cake",
+    "type": "Established Crypto",
+    "market_cap": 433285325,
+    "current_price": 1.31,
+    "total_volume": 25942940
+  },
+  {
+    "name": "Dash",
+    "symbol": "dash",
+    "type": "Established Crypto",
+    "market_cap": 431367745,
+    "current_price": 34.2,
+    "total_volume": 68791052
+  },
+  {
+    "name": "Kite",
+    "symbol": "kite",
+    "type": "Established Crypto",
+    "market_cap": 424804002,
+    "current_price": 0.235997,
+    "total_volume": 223989477
+  },
+  {
+    "name": "Pudgy Penguins",
+    "symbol": "pengu",
+    "type": "Established Crypto",
+    "market_cap": 419292191,
+    "current_price": 0.00667212,
+    "total_volume": 45538349
+  },
+  {
+    "name": "Virtuals Protocol",
+    "symbol": "virtual",
+    "type": "Established Crypto",
+    "market_cap": 413534492,
+    "current_price": 0.630083,
+    "total_volume": 42189661
+  },
+  {
+    "name": "Tezos",
+    "symbol": "xtz",
+    "type": "Established Crypto",
+    "market_cap": 411040932,
+    "current_price": 0.382075,
+    "total_volume": 10041086
+  },
+  {
+    "name": "First Digital USD",
+    "symbol": "fdusd",
+    "type": "Established Crypto",
+    "market_cap": 394234751,
+    "current_price": 0.998806,
+    "total_volume": 56443622
+  },
+  {
+    "name": "Story",
+    "symbol": "ip",
+    "type": "Established Crypto",
+    "market_cap": 376982414,
+    "current_price": 1.075,
+    "total_volume": 26580858
+  },
+  {
+    "name": "JUST",
+    "symbol": "jst",
+    "type": "Established Crypto",
+    "market_cap": 376528358,
+    "current_price": 0.04273897,
+    "total_volume": 17794944
+  },
+  {
+    "name": "Lighter",
+    "symbol": "lit",
+    "type": "Established Crypto",
+    "market_cap": 373136642,
+    "current_price": 1.49,
+    "total_volume": 19107516
+  },
+  {
+    "name": "Artificial Superintelligence Alliance",
+    "symbol": "fet",
+    "type": "Established Crypto",
+    "market_cap": 368647008,
+    "current_price": 0.161673,
+    "total_volume": 31381820
+  },
+  {
+    "name": "c8ntinuum",
+    "symbol": "ctm",
+    "type": "Established Crypto",
+    "market_cap": 366323053,
+    "current_price": 0.084027,
+    "total_volume": 1047200
+  },
+  {
+    "name": "Injective",
+    "symbol": "inj",
+    "type": "Established Crypto",
+    "market_cap": 360196749,
+    "current_price": 3.6,
+    "total_volume": 143582537
+  },
+  {
+    "name": "Chiliz",
+    "symbol": "chz",
+    "type": "Established Crypto",
+    "market_cap": 350083121,
+    "current_price": 0.03406841,
+    "total_volume": 45109193
+  },
+  {
+    "name": "Curve DAO",
+    "symbol": "crv",
+    "type": "Established Crypto",
+    "market_cap": 344751126,
+    "current_price": 0.233199,
+    "total_volume": 28278683
+  },
+  {
+    "name": "LayerZero",
+    "symbol": "zro",
+    "type": "Established Crypto",
+    "market_cap": 343303277,
+    "current_price": 1.7,
+    "total_volume": 97499251
+  },
+  {
+    "name": "BitTorrent",
+    "symbol": "btt",
+    "type": "Established Crypto",
+    "market_cap": 335298269,
+    "current_price": 3.3907e-07,
+    "total_volume": 6107201
+  },
+  {
+    "name": "Ether.fi",
+    "symbol": "ethfi",
+    "type": "Established Crypto",
+    "market_cap": 334833934,
+    "current_price": 0.449678,
+    "total_volume": 30723377
+  },
+  {
+    "name": "PRIME",
+    "symbol": "prime",
+    "type": "Established Crypto",
+    "market_cap": 333812082,
+    "current_price": 1.021,
+    "total_volume": 1213496
+  },
+  {
+    "name": "AINFT",
+    "symbol": "nft",
+    "type": "Established Crypto",
+    "market_cap": 330972970,
+    "current_price": 3.33856e-07,
+    "total_volume": 10879697
+  },
+  {
+    "name": "Kaia",
+    "symbol": "kaia",
+    "type": "Established Crypto",
+    "market_cap": 328301097,
+    "current_price": 0.056051,
+    "total_volume": 6165190
+  },
+  {
+    "name": "Sun Token",
+    "symbol": "sun",
+    "type": "Established Crypto",
+    "market_cap": 325432075,
+    "current_price": 0.01693674,
+    "total_volume": 21939930
+  },
+  {
+    "name": "Gnosis",
+    "symbol": "gno",
+    "type": "Established Crypto",
+    "market_cap": 316998953,
+    "current_price": 120.04,
+    "total_volume": 2868375
+  },
+  {
+    "name": "Bitcoin SV",
+    "symbol": "bsv",
+    "type": "Established Crypto",
+    "market_cap": 316416629,
+    "current_price": 15.84,
+    "total_volume": 3642952
+  },
+  {
+    "name": "Pyth Network",
+    "symbol": "pyth",
+    "type": "Established Crypto",
+    "market_cap": 303404568,
+    "current_price": 0.052755,
+    "total_volume": 9887680
+  },
+  {
+    "name": "Aerodrome Finance",
+    "symbol": "aero",
+    "type": "Established Crypto",
+    "market_cap": 300535827,
+    "current_price": 0.326483,
+    "total_volume": 27365177
+  },
+  {
+    "name": "Humanity",
+    "symbol": "h",
+    "type": "Established Crypto",
+    "market_cap": 296980933,
+    "current_price": 0.162727,
+    "total_volume": 25406784
+  },
+  {
+    "name": "IOTA",
+    "symbol": "iota",
+    "type": "Established Crypto",
+    "market_cap": 292513381,
+    "current_price": 0.067965,
+    "total_volume": 4307075
+  },
+  {
+    "name": "SPX6900",
+    "symbol": "spx",
+    "type": "Established Crypto",
+    "market_cap": 291221850,
+    "current_price": 0.313023,
+    "total_volume": 5795353
+  },
+  {
+    "name": "The Graph",
+    "symbol": "grt",
+    "type": "Established Crypto",
+    "market_cap": 290743644,
+    "current_price": 0.02710829,
+    "total_volume": 17091355
+  },
+  {
+    "name": "crvUSD",
+    "symbol": "crvusd",
+    "type": "Established Crypto",
+    "market_cap": 290358953,
+    "current_price": 0.99882,
+    "total_volume": 4260613
+  },
+  {
+    "name": "FLOKI",
+    "symbol": "floki",
+    "type": "Established Crypto",
+    "market_cap": 285667735,
+    "current_price": 2.962e-05,
+    "total_volume": 18389923
+  },
+  {
+    "name": "Celestia",
+    "symbol": "tia",
+    "type": "Established Crypto",
+    "market_cap": 283691479,
+    "current_price": 0.321375,
+    "total_volume": 21278917
+  },
+  {
+    "name": "JasmyCoin",
+    "symbol": "jasmy",
+    "type": "Established Crypto",
+    "market_cap": 279939021,
+    "current_price": 0.0056587,
+    "total_volume": 7978495
+  },
+  {
+    "name": "Helium",
+    "symbol": "hnt",
+    "type": "Established Crypto",
+    "market_cap": 275764422,
+    "current_price": 1.48,
+    "total_volume": 8932284
+  },
+  {
+    "name": "Lido DAO",
+    "symbol": "ldo",
+    "type": "Established Crypto",
+    "market_cap": 271070149,
+    "current_price": 0.319336,
+    "total_volume": 18872873
+  },
+  {
+    "name": "Conflux",
+    "symbol": "cfx",
+    "type": "Established Crypto",
+    "market_cap": 266955308,
+    "current_price": 0.051761,
+    "total_volume": 5613590
+  },
+  {
+    "name": "Optimism",
+    "symbol": "op",
+    "type": "Established Crypto",
+    "market_cap": 264213206,
+    "current_price": 0.124757,
+    "total_volume": 104420593
+  },
+  {
+    "name": "Telcoin",
+    "symbol": "tel",
+    "type": "Established Crypto",
+    "market_cap": 263999833,
+    "current_price": 0.00277692,
+    "total_volume": 1092518
+  },
+  {
+    "name": "BTSE Token",
+    "symbol": "btse",
+    "type": "Established Crypto",
+    "market_cap": 263609032,
+    "current_price": 1.63,
+    "total_volume": 11958897
+  },
+  {
+    "name": "Maple Finance",
+    "symbol": "syrup",
+    "type": "Established Crypto",
+    "market_cap": 260871564,
+    "current_price": 0.225294,
+    "total_volume": 8749589
+  },
+  {
+    "name": "Ethereum Name Service",
+    "symbol": "ens",
+    "type": "Established Crypto",
+    "market_cap": 249399694,
+    "current_price": 6.53,
+    "total_volume": 18724886
+  },
+  {
+    "name": "ZKsync",
+    "symbol": "zk",
+    "type": "Established Crypto",
+    "market_cap": 249026975,
+    "current_price": 0.01938336,
+    "total_volume": 10710462
+  },
+  {
+    "name": "DoubleZero",
+    "symbol": "2z",
+    "type": "Established Crypto",
+    "market_cap": 246805562,
+    "current_price": 0.071082,
+    "total_volume": 5866519
+  },
+  {
+    "name": "AB",
+    "symbol": "ab",
+    "type": "Established Crypto",
+    "market_cap": 244519879,
+    "current_price": 0.00247313,
+    "total_volume": 5442550
+  },
+  {
+    "name": "Starknet",
+    "symbol": "strk",
+    "type": "Established Crypto",
+    "market_cap": 239473264,
+    "current_price": 0.04396386,
+    "total_volume": 19839287
+  },
+  {
+    "name": "Axie Infinity",
+    "symbol": "axs",
+    "type": "Established Crypto",
+    "market_cap": 219528438,
+    "current_price": 1.3,
+    "total_volume": 46450650
+  },
+  {
+    "name": "The Sandbox",
+    "symbol": "sand",
+    "type": "Established Crypto",
+    "market_cap": 219367192,
+    "current_price": 0.082246,
+    "total_volume": 14725812
+  },
+  {
+    "name": "YLDS",
+    "symbol": "ylds",
+    "type": "Established Crypto",
+    "market_cap": 219202961,
+    "current_price": 0.999802,
+    "total_volume": 11711182
+  },
+  {
+    "name": "Monad",
+    "symbol": "mon",
+    "type": "Established Crypto",
+    "market_cap": 216606674,
+    "current_price": 0.02000507,
+    "total_volume": 49632563
+  },
+  {
+    "name": "AUSD",
+    "symbol": "ausd",
+    "type": "Established Crypto",
+    "market_cap": 216426379,
+    "current_price": 0.999736,
+    "total_volume": 38508701
+  },
+  {
+    "name": "dogwifhat",
+    "symbol": "wif",
+    "type": "Established Crypto",
+    "market_cap": 215344930,
+    "current_price": 0.215615,
+    "total_volume": 43939096
+  },
+  {
+    "name": "Trust Wallet",
+    "symbol": "twt",
+    "type": "Established Crypto",
+    "market_cap": 213910482,
+    "current_price": 0.513352,
+    "total_volume": 8986346
+  },
+  {
+    "name": "Ultima",
+    "symbol": "ultima",
+    "type": "Established Crypto",
+    "market_cap": 203710746,
+    "current_price": 5393.78,
+    "total_volume": 11254531
+  },
+  {
+    "name": "Zebec Network",
+    "symbol": "zbcn",
+    "type": "Established Crypto",
+    "market_cap": 203440830,
+    "current_price": 0.00207751,
+    "total_volume": 5792043
+  },
+  {
+    "name": "Ape and Pepe",
+    "symbol": "apepe",
+    "type": "Established Crypto",
+    "market_cap": 203417933,
+    "current_price": 9.68681e-07,
+    "total_volume": 17179557
+  },
+  {
+    "name": "Plasma",
+    "symbol": "xpl",
+    "type": "Established Crypto",
+    "market_cap": 201590902,
+    "current_price": 0.09352,
+    "total_volume": 39262822
+  },
+  {
+    "name": "Siren",
+    "symbol": "siren",
+    "type": "Established Crypto",
+    "market_cap": 198272250,
+    "current_price": 0.270893,
+    "total_volume": 15349978
+  },
+  {
+    "name": "Pendle",
+    "symbol": "pendle",
+    "type": "Established Crypto",
+    "market_cap": 197246634,
+    "current_price": 1.2,
+    "total_volume": 14577739
+  },
+  {
+    "name": "Theta Network",
+    "symbol": "theta",
+    "type": "Established Crypto",
+    "market_cap": 196229191,
+    "current_price": 0.196688,
+    "total_volume": 5080415
+  },
+  {
+    "name": "Terra Luna Classic",
+    "symbol": "lunc",
+    "type": "Established Crypto",
+    "market_cap": 195763360,
+    "current_price": 3.582e-05,
+    "total_volume": 7138577
+  },
+  {
+    "name": "NEO",
+    "symbol": "neo",
+    "type": "Established Crypto",
+    "market_cap": 190495042,
+    "current_price": 2.7,
+    "total_volume": 6457808
+  },
+  {
+    "name": "Vision",
+    "symbol": "vsn",
+    "type": "Established Crypto",
+    "market_cap": 188967814,
+    "current_price": 0.052644,
+    "total_volume": 1326916
+  },
+  {
+    "name": "Venice Token",
+    "symbol": "vvv",
+    "type": "Established Crypto",
+    "market_cap": 188267351,
+    "current_price": 4.27,
+    "total_volume": 11931542
+  },
+  {
+    "name": "Onyxcoin",
+    "symbol": "xcn",
+    "type": "Established Crypto",
+    "market_cap": 186290924,
+    "current_price": 0.00501169,
+    "total_volume": 3653024
+  },
+  {
+    "name": "Falcon Finance",
+    "symbol": "ff",
+    "type": "Established Crypto",
+    "market_cap": 184676282,
+    "current_price": 0.079188,
+    "total_volume": 77834598
+  },
+  {
+    "name": "Decentraland",
+    "symbol": "mana",
+    "type": "Established Crypto",
+    "market_cap": 183291395,
+    "current_price": 0.094711,
+    "total_volume": 9655131
+  },
+  {
+    "name": "The9bit",
+    "symbol": "9bit",
+    "type": "Established Crypto",
+    "market_cap": 180079341,
+    "current_price": 0.02195675,
+    "total_volume": 4863021
+  },
+  {
+    "name": "Fartcoin",
+    "symbol": "fartcoin",
+    "type": "Established Crypto",
+    "market_cap": 179706692,
+    "current_price": 0.179792,
+    "total_volume": 23762293
+  },
+  {
+    "name": "GALA",
+    "symbol": "gala",
+    "type": "Established Crypto",
+    "market_cap": 179055107,
+    "current_price": 0.00378355,
+    "total_volume": 16785225
+  },
+  {
+    "name": "Basic Attention",
+    "symbol": "bat",
+    "type": "Established Crypto",
+    "market_cap": 178682458,
+    "current_price": 0.119473,
+    "total_volume": 9543918
+  },
+  {
+    "name": "MYX Finance",
+    "symbol": "myx",
+    "type": "Established Crypto",
+    "market_cap": 177575626,
+    "current_price": 0.931117,
+    "total_volume": 30701842
+  },
+  {
+    "name": "Ribbita by Virtuals",
+    "symbol": "tibbir",
+    "type": "Established Crypto",
+    "market_cap": 175439939,
+    "current_price": 0.175372,
+    "total_volume": 9123758
+  },
+  {
+    "name": "WeFi",
+    "symbol": "wfi",
+    "type": "Established Crypto",
+    "market_cap": 175262566,
+    "current_price": 2.19,
+    "total_volume": 2888668
+  },
+  {
+    "name": "Lombard",
+    "symbol": "bard",
+    "type": "Established Crypto",
+    "market_cap": 174241471,
+    "current_price": 0.778551,
+    "total_volume": 6753134
+  },
+  {
+    "name": "Convex Finance",
+    "symbol": "cvx",
+    "type": "Established Crypto",
+    "market_cap": 172248239,
+    "current_price": 1.87,
+    "total_volume": 4095942
+  },
+  {
+    "name": "Raydium",
+    "symbol": "ray",
+    "type": "Established Crypto",
+    "market_cap": 169971259,
+    "current_price": 0.632031,
+    "total_volume": 13967185
+  },
+  {
+    "name": "Compound",
+    "symbol": "comp",
+    "type": "Established Crypto",
+    "market_cap": 169337697,
+    "current_price": 17.53,
+    "total_volume": 15089323
+  },
+  {
+    "name": "RealLink",
+    "symbol": "real",
+    "type": "Established Crypto",
+    "market_cap": 166660728,
+    "current_price": 0.053317,
+    "total_volume": 4816152
+  },
+  {
+    "name": "MX",
+    "symbol": "mx",
+    "type": "Established Crypto",
+    "market_cap": 165832299,
+    "current_price": 1.81,
+    "total_volume": 5073111
+  },
+  {
+    "name": "Golem",
+    "symbol": "glm",
+    "type": "Established Crypto",
+    "market_cap": 164483821,
+    "current_price": 0.164501,
+    "total_volume": 8584775
+  },
+  {
+    "name": "Fluid",
+    "symbol": "fluid",
+    "type": "Established Crypto",
+    "market_cap": 163133974,
+    "current_price": 2.07,
+    "total_volume": 2551411
+  },
+  {
+    "name": "KOGE",
+    "symbol": "koge",
+    "type": "Established Crypto",
+    "market_cap": 162199639,
+    "current_price": 47.99,
+    "total_volume": 79532374
+  },
+  {
+    "name": "Sonic",
+    "symbol": "s",
+    "type": "Established Crypto",
+    "market_cap": 160905284,
+    "current_price": 0.0425231,
+    "total_volume": 15715846
+  },
+  {
+    "name": "River",
+    "symbol": "river",
+    "type": "Established Crypto",
+    "market_cap": 159719188,
+    "current_price": 8.15,
+    "total_volume": 11997433
+  },
+  {
+    "name": "eCash",
+    "symbol": "xec",
+    "type": "Established Crypto",
+    "market_cap": 158139773,
+    "current_price": 7.91e-06,
+    "total_volume": 4217196
+  },
+  {
+    "name": "Sentient",
+    "symbol": "sent",
+    "type": "Established Crypto",
+    "market_cap": 156294630,
+    "current_price": 0.02159397,
+    "total_volume": 22368255
+  },
+  {
+    "name": "Theo Short Duration US Treasury Fund",
+    "symbol": "thbill",
+    "type": "Established Crypto",
+    "market_cap": 151515868,
+    "current_price": 1.014,
+    "total_volume": 2165866
+  },
+  {
+    "name": "OriginTrail",
+    "symbol": "trac",
+    "type": "Established Crypto",
+    "market_cap": 151420322,
+    "current_price": 0.338598,
+    "total_volume": 3625018
+  },
+  {
+    "name": "RaveDAO",
+    "symbol": "rave",
+    "type": "Established Crypto",
+    "market_cap": 151117339,
+    "current_price": 0.643782,
+    "total_volume": 64457929
+  },
+  {
+    "name": "GUSD",
+    "symbol": "gusd",
+    "type": "Established Crypto",
+    "market_cap": 149884959,
+    "current_price": 1.001,
+    "total_volume": 1323920
+  },
+  {
+    "name": "Synthetix",
+    "symbol": "snx",
+    "type": "Established Crypto",
+    "market_cap": 147996805,
+    "current_price": 0.433319,
+    "total_volume": 98715431
+  },
+  {
+    "name": "THORChain",
+    "symbol": "rune",
+    "type": "Established Crypto",
+    "market_cap": 141921054,
+    "current_price": 0.405051,
+    "total_volume": 37768831
+  },
+  {
+    "name": "Jito",
+    "symbol": "jto",
+    "type": "Established Crypto",
+    "market_cap": 137997154,
+    "current_price": 0.314049,
+    "total_volume": 25713288
+  },
+  {
+    "name": "Immutable",
+    "symbol": "imx",
+    "type": "Established Crypto",
+    "market_cap": 137803717,
+    "current_price": 0.162298,
+    "total_volume": 10395947
+  },
+  {
+    "name": "0G",
+    "symbol": "0g",
+    "type": "Established Crypto",
+    "market_cap": 136888454,
+    "current_price": 0.641942,
+    "total_volume": 15754759
+  },
+  {
+    "name": "Comedian",
+    "symbol": "ban",
+    "type": "Established Crypto",
+    "market_cap": 136233532,
+    "current_price": 0.13586,
+    "total_volume": 6462032
+  },
+  {
+    "name": "GoMining Token",
+    "symbol": "gomining",
+    "type": "Established Crypto",
+    "market_cap": 132064278,
+    "current_price": 0.325952,
+    "total_volume": 8904669
+  },
+  {
+    "name": "BUILDon",
+    "symbol": "b",
+    "type": "Established Crypto",
+    "market_cap": 131791656,
+    "current_price": 0.131786,
+    "total_volume": 2493157
+  },
+  {
+    "name": "SafePal",
+    "symbol": "sfp",
+    "type": "Established Crypto",
+    "market_cap": 131560037,
+    "current_price": 0.263154,
+    "total_volume": 1433389
+  },
+  {
+    "name": "Vaulta",
+    "symbol": "a",
+    "type": "Established Crypto",
+    "market_cap": 131414429,
+    "current_price": 0.080877,
+    "total_volume": 12823138
+  },
+  {
+    "name": "MultiversX",
+    "symbol": "egld",
+    "type": "Established Crypto",
+    "market_cap": 131089454,
+    "current_price": 4.46,
+    "total_volume": 3861595
+  },
+  {
+    "name": "Berachain",
+    "symbol": "bera",
+    "type": "Established Crypto",
+    "market_cap": 130898374,
+    "current_price": 0.609968,
+    "total_volume": 44299660
+  },
+  {
+    "name": "1INCH",
+    "symbol": "1inch",
+    "type": "Established Crypto",
+    "market_cap": 129659590,
+    "current_price": 0.092092,
+    "total_volume": 10210709
+  },
+  {
+    "name": "Arweave",
+    "symbol": "ar",
+    "type": "Established Crypto",
+    "market_cap": 129302165,
+    "current_price": 1.98,
+    "total_volume": 13901150
+  },
+  {
+    "name": "Keeta",
+    "symbol": "kta",
+    "type": "Established Crypto",
+    "market_cap": 129242304,
+    "current_price": 0.261169,
+    "total_volume": 3060178
+  },
+  {
+    "name": "Zano",
+    "symbol": "zano",
+    "type": "Established Crypto",
+    "market_cap": 128879116,
+    "current_price": 8.49,
+    "total_volume": 1660903
+  },
+  {
+    "name": "Amp",
+    "symbol": "amp",
+    "type": "Established Crypto",
+    "market_cap": 126244579,
+    "current_price": 0.00149801,
+    "total_volume": 4538972
+  },
+  {
+    "name": "Walrus",
+    "symbol": "wal",
+    "type": "Established Crypto",
+    "market_cap": 124035536,
+    "current_price": 0.077027,
+    "total_volume": 4884208
+  },
+  {
+    "name": "CoW Protocol",
+    "symbol": "cow",
+    "type": "Established Crypto",
+    "market_cap": 118104503,
+    "current_price": 0.210506,
+    "total_volume": 5976554
+  },
+  {
+    "name": "BitMart",
+    "symbol": "bmx",
+    "type": "Established Crypto",
+    "market_cap": 115560523,
+    "current_price": 0.340445,
+    "total_volume": 5767889
+  },
+  {
+    "name": "Livepeer",
+    "symbol": "lpt",
+    "type": "Established Crypto",
+    "market_cap": 114877090,
+    "current_price": 2.31,
+    "total_volume": 6104353
+  },
+  {
+    "name": "Beam",
+    "symbol": "beam",
+    "type": "Established Crypto",
+    "market_cap": 114507449,
+    "current_price": 0.0022323,
+    "total_volume": 4821726
+  },
+  {
+    "name": "DeXe",
+    "symbol": "dexe",
+    "type": "Established Crypto",
+    "market_cap": 114179595,
+    "current_price": 2.44,
+    "total_volume": 3045628
+  },
+  {
+    "name": "CASH",
+    "symbol": "cash",
+    "type": "Established Crypto",
+    "market_cap": 113304619,
+    "current_price": 0.999807,
+    "total_volume": 27407385
+  },
+  {
+    "name": "Seeker",
+    "symbol": "skr",
+    "type": "Established Crypto",
+    "market_cap": 110751514,
+    "current_price": 0.01941232,
+    "total_volume": 5893287
+  }
+]

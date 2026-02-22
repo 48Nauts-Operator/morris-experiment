@@ -1,0 +1,2706 @@
+[
+  {
+    "name": "Bitcoin",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1358510072707,
+      "total_volume": 19600265388
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Ethereum",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 238130311358,
+      "total_volume": 10898088653
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Tether",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 183587282260,
+      "total_volume": 35834672537
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "XRP",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 86529943869,
+      "total_volume": 1255025353
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "BNB",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 84760759553,
+      "total_volume": 579199143
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "USDC",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 74446922116,
+      "total_volume": 4685528717
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Solana",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 48292530459,
+      "total_volume": 2150340371
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "TRON",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 27234198282,
+      "total_volume": 472006849
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Dogecoin",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 16397131121,
+      "total_volume": 516037120
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Figure Heloc",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 15925734315,
+      "total_volume": 1194271
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Bitcoin Cash",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 11499681517,
+      "total_volume": 326337588
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "WhiteBIT Coin",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 10822910189,
+      "total_volume": 21045406
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Cardano",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 10133996187,
+      "total_volume": 262426757
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "USDS",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 9878353711,
+      "total_volume": 34810348
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "LEO Token",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 7518879397,
+      "total_volume": 5083852
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Hyperliquid",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 7019400449,
+      "total_volume": 84874048
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Chainlink",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 6236207666,
+      "total_volume": 203549488
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Ethena USDe",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 6193311882,
+      "total_volume": 100563578
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Canton",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 6008890410,
+      "total_volume": 4415231
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Monero",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 5949601338,
+      "total_volume": 64241107
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Stellar",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 5130297163,
+      "total_volume": 133884455
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "USD1",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 5030682115,
+      "total_volume": 1252699905
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Rain",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 4626791265,
+      "total_volume": 30930044
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Hedera",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 4219533387,
+      "total_volume": 52392832
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Litecoin",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 4197098442,
+      "total_volume": 239713244
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Dai",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 4187186958,
+      "total_volume": 41440956
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Zcash",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 4144764255,
+      "total_volume": 192065294
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "PayPal USD",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 4079069063,
+      "total_volume": 73213294
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Avalanche",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 3876742907,
+      "total_volume": 198691929
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Shiba Inu",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 3642940687,
+      "total_volume": 109919668
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Sui",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 3582256594,
+      "total_volume": 299421006
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Toncoin",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 3243715106,
+      "total_volume": 66255170
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "World Liberty Financial",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 3207442169,
+      "total_volume": 182746251
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Cronos",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 3139339805,
+      "total_volume": 11171864
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Tether Gold",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 2654289646,
+      "total_volume": 143295376
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "MemeCore",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 2379624149,
+      "total_volume": 7837360
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "PAX Gold",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 2356104466,
+      "total_volume": 114099542
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Uniswap",
+    "type": "Established Crypto",
+    "potential_score": 4,
+    "market_details": {
+      "market_cap": 2252374317,
+      "total_volume": 190046875
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Polkadot",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 2210945121,
+      "total_volume": 93620743
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Mantle",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 2044058300,
+      "total_volume": 16289133
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Aave",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1801162089,
+      "total_volume": 266393459
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Aster",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1738384686,
+      "total_volume": 85820965
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Pepe",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1716817870,
+      "total_volume": 234265977
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Bittensor",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1706826227,
+      "total_volume": 65410628
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "OKB",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1640051966,
+      "total_volume": 17578460
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Bitget Token",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1627670730,
+      "total_volume": 17511416
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Global Dollar",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1627080855,
+      "total_volume": 9113877
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Ripple USD",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1557907504,
+      "total_volume": 34171335
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "HTX DAO",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1554884972,
+      "total_volume": 15824500
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Pi Network",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1500713164,
+      "total_volume": 14380532
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Sky",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1493323441,
+      "total_volume": 5350789
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Ethereum Classic",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1364651683,
+      "total_volume": 88876046
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "NEAR Protocol",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1321050700,
+      "total_volume": 110493787
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "BFUSD",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1318292166,
+      "total_volume": 7055446
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Ondo",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1274576137,
+      "total_volume": 33272489
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Pump.fun",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1223626543,
+      "total_volume": 46829577
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Internet Computer",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1197943800,
+      "total_volume": 57122363
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Gate",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 1133103428,
+      "total_volume": 1400195
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Cosmos Hub",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1131662899,
+      "total_volume": 30500246
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "POL (ex-MATIC)",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1130673770,
+      "total_volume": 81084742
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "KuCoin",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 1126957908,
+      "total_volume": 1378405
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Worldcoin",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 1087170964,
+      "total_volume": 42424967
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Midnight",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 966022687,
+      "total_volume": 8499119
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Quant",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 949822056,
+      "total_volume": 9071819
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Morpho",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 887397759,
+      "total_volume": 22818626
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "NEXO",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 882089734,
+      "total_volume": 7910770
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Ethena",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 852291419,
+      "total_volume": 73937349
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "USDtb",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 834593146,
+      "total_volume": 2926320
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Kaspa",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 823475847,
+      "total_volume": 9055685
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Flare",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 799032015,
+      "total_volume": 2901714
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Official Trump",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 795138598,
+      "total_volume": 76215036
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Algorand",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 778983842,
+      "total_volume": 18880092
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "USDD",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 748785706,
+      "total_volume": 2355744
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Render",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 740050061,
+      "total_volume": 36635009
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Filecoin",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 710473865,
+      "total_volume": 74370909
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "XDC Network",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 705409005,
+      "total_volume": 12234964
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Aptos",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 661887654,
+      "total_volume": 43705436
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "VeChain",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 648663729,
+      "total_volume": 14089242
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Beldex",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 609595225,
+      "total_volume": 11027495
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "pippin",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 582730022,
+      "total_volume": 43626499
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Arbitrum",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 556891358,
+      "total_volume": 79379081
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Bonk",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 539594982,
+      "total_volume": 30239809
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "GHO",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 527218447,
+      "total_volume": 4236442
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "\u200b\u200bStable",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 521804803,
+      "total_volume": 19652692
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Jupiter",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 501095443,
+      "total_volume": 15549691
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "TrueUSD",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 494160407,
+      "total_volume": 4422530
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "USDai",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 476733155,
+      "total_volume": 4798434
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Decred",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 472729617,
+      "total_volume": 7340098
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Fasttoken",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 471519761,
+      "total_volume": 10988625
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Sei",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 470758140,
+      "total_volume": 25167986
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "EURC",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 458450947,
+      "total_volume": 5953502
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Stacks",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 441683354,
+      "total_volume": 7704217
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "PancakeSwap",
+    "type": "Established Crypto",
+    "potential_score": 4,
+    "market_details": {
+      "market_cap": 433285325,
+      "total_volume": 25942940
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Dash",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 431367745,
+      "total_volume": 68791052
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Kite",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 424804002,
+      "total_volume": 223989477
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Pudgy Penguins",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 419292191,
+      "total_volume": 45538349
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Virtuals Protocol",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 413534492,
+      "total_volume": 42189661
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Tezos",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 411040932,
+      "total_volume": 10041086
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "First Digital USD",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 394234751,
+      "total_volume": 56443622
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Story",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 376982414,
+      "total_volume": 26580858
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "JUST",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 376528358,
+      "total_volume": 17794944
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Lighter",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 373136642,
+      "total_volume": 19107516
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Artificial Superintelligence Alliance",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 368647008,
+      "total_volume": 31381820
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "c8ntinuum",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 366323053,
+      "total_volume": 1047200
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Injective",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 360196749,
+      "total_volume": 143582537
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Chiliz",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 350083121,
+      "total_volume": 45109193
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Curve DAO",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 344751126,
+      "total_volume": 28278683
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "LayerZero",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 343303277,
+      "total_volume": 97499251
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "BitTorrent",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 335298269,
+      "total_volume": 6107201
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Ether.fi",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 334833934,
+      "total_volume": 30723377
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "PRIME",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 333812082,
+      "total_volume": 1213496
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "AINFT",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 330972970,
+      "total_volume": 10879697
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Kaia",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 328301097,
+      "total_volume": 6165190
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Sun Token",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 325432075,
+      "total_volume": 21939930
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Gnosis",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 316998953,
+      "total_volume": 2868375
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Bitcoin SV",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 316416629,
+      "total_volume": 3642952
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Pyth Network",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 303404568,
+      "total_volume": 9887680
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Aerodrome Finance",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 300535827,
+      "total_volume": 27365177
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Humanity",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 296980933,
+      "total_volume": 25406784
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "IOTA",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 292513381,
+      "total_volume": 4307075
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "SPX6900",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 291221850,
+      "total_volume": 5795353
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "The Graph",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 290743644,
+      "total_volume": 17091355
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "crvUSD",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 290358953,
+      "total_volume": 4260613
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "FLOKI",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 285667735,
+      "total_volume": 18389923
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Celestia",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 283691479,
+      "total_volume": 21278917
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "JasmyCoin",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 279939021,
+      "total_volume": 7978495
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Helium",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 275764422,
+      "total_volume": 8932284
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Lido DAO",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 271070149,
+      "total_volume": 18872873
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Conflux",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 266955308,
+      "total_volume": 5613590
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Optimism",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 264213206,
+      "total_volume": 104420593
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Telcoin",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 263999833,
+      "total_volume": 1092518
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "BTSE Token",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 263609032,
+      "total_volume": 11958897
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Maple Finance",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 260871564,
+      "total_volume": 8749589
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Ethereum Name Service",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 249399694,
+      "total_volume": 18724886
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "ZKsync",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 249026975,
+      "total_volume": 10710462
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "DoubleZero",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 246805562,
+      "total_volume": 5866519
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "AB",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 244519879,
+      "total_volume": 5442550
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Starknet",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 239473264,
+      "total_volume": 19839287
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Axie Infinity",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 219528438,
+      "total_volume": 46450650
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "The Sandbox",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 219367192,
+      "total_volume": 14725812
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "YLDS",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 219202961,
+      "total_volume": 11711182
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Monad",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 216606674,
+      "total_volume": 49632563
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "AUSD",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 216426379,
+      "total_volume": 38508701
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "dogwifhat",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 215344930,
+      "total_volume": 43939096
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Trust Wallet",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 213910482,
+      "total_volume": 8986346
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Ultima",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 203710746,
+      "total_volume": 11254531
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Zebec Network",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 203440830,
+      "total_volume": 5792043
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Ape and Pepe",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 203417933,
+      "total_volume": 17179557
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Plasma",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 201590902,
+      "total_volume": 39262822
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Siren",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 198272250,
+      "total_volume": 15349978
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Pendle",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 197246634,
+      "total_volume": 14577739
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Theta Network",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 196229191,
+      "total_volume": 5080415
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Terra Luna Classic",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 195763360,
+      "total_volume": 7138577
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "NEO",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 190495042,
+      "total_volume": 6457808
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Vision",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 188967814,
+      "total_volume": 1326916
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Venice Token",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 188267351,
+      "total_volume": 11931542
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Onyxcoin",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 186290924,
+      "total_volume": 3653024
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Falcon Finance",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 184676282,
+      "total_volume": 77834598
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Decentraland",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 183291395,
+      "total_volume": 9655131
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "The9bit",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 180079341,
+      "total_volume": 4863021
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Fartcoin",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 179706692,
+      "total_volume": 23762293
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "GALA",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 179055107,
+      "total_volume": 16785225
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Basic Attention",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 178682458,
+      "total_volume": 9543918
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "MYX Finance",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 177575626,
+      "total_volume": 30701842
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Ribbita by Virtuals",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 175439939,
+      "total_volume": 9123758
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "WeFi",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 175262566,
+      "total_volume": 2888668
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Lombard",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 174241471,
+      "total_volume": 6753134
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Convex Finance",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 172248239,
+      "total_volume": 4095942
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Raydium",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 169971259,
+      "total_volume": 13967185
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Compound",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 169337697,
+      "total_volume": 15089323
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "RealLink",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 166660728,
+      "total_volume": 4816152
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "MX",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 165832299,
+      "total_volume": 5073111
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Golem",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 164483821,
+      "total_volume": 8584775
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Fluid",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 163133974,
+      "total_volume": 2551411
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "KOGE",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 162199639,
+      "total_volume": 79532374
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Sonic",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 160905284,
+      "total_volume": 15715846
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "River",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 159719188,
+      "total_volume": 11997433
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "eCash",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 158139773,
+      "total_volume": 4217196
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Sentient",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 156294630,
+      "total_volume": 22368255
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Theo Short Duration US Treasury Fund",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 151515868,
+      "total_volume": 2165866
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "OriginTrail",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 151420322,
+      "total_volume": 3625018
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "RaveDAO",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 151117339,
+      "total_volume": 64457929
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "GUSD",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 149884959,
+      "total_volume": 1323920
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Synthetix",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 147996805,
+      "total_volume": 98715431
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "THORChain",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 141921054,
+      "total_volume": 37768831
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Jito",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 137997154,
+      "total_volume": 25713288
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Immutable",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 137803717,
+      "total_volume": 10395947
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "0G",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 136888454,
+      "total_volume": 15754759
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Comedian",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 136233532,
+      "total_volume": 6462032
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "GoMining Token",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 132064278,
+      "total_volume": 8904669
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "BUILDon",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 131791656,
+      "total_volume": 2493157
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "SafePal",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 131560037,
+      "total_volume": 1433389
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Vaulta",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 131414429,
+      "total_volume": 12823138
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "MultiversX",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 131089454,
+      "total_volume": 3861595
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Berachain",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 130898374,
+      "total_volume": 44299660
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "1INCH",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 129659590,
+      "total_volume": 10210709
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Arweave",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 129302165,
+      "total_volume": 13901150
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Keeta",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 129242304,
+      "total_volume": 3060178
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Zano",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 128879116,
+      "total_volume": 1660903
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Amp",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 126244579,
+      "total_volume": 4538972
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Walrus",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 124035536,
+      "total_volume": 4884208
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "CoW Protocol",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 118104503,
+      "total_volume": 5976554
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "BitMart",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 115560523,
+      "total_volume": 5767889
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Livepeer",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 114877090,
+      "total_volume": 6104353
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Beam",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 114507449,
+      "total_volume": 4821726
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "DeXe",
+    "type": "Established Crypto",
+    "potential_score": 2,
+    "market_details": {
+      "market_cap": 114179595,
+      "total_volume": 3045628
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "CASH",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 113304619,
+      "total_volume": 27407385
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "Seeker",
+    "type": "Established Crypto",
+    "potential_score": 3,
+    "market_details": {
+      "market_cap": 110751514,
+      "total_volume": 5893287
+    },
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  }
+]
