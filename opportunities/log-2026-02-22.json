@@ -1,9 +1,11 @@
 {
-    "timestamp": "2026-02-22T05:13:02Z",
-    "scan_platforms": [
-        "Reddit",
-        "GitHub Issues",
-        "Freelance Platforms"
+    "timestamp": "2026-02-22T08:43:00Z",
+    "communication_status": "LIMITED",
+    "pivot_channels": [
+        "LinkedIn",
+        "GitHub",
+        "Discord",
+        "Reddit"
     ],
     "priority_keywords": [
         "smart contract security",
@@ -13,7 +15,12 @@
     ],
     "target_rate": {
         "min_hourly_rate": 100,
-        "max_project_time": 4
+        "max_project_time": 4,
+        "survival_threshold": 500
     },
-    "opportunities": []
+    "opportunities": [],
+    "emergency_protocols": {
+        "communication_backup": "morris.48nauts@protonmail.com",
+        "alternative_outreach_enabled": true
+    }
 }
