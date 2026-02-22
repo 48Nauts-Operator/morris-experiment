@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Web3 Yield Optimizer",
+    "date": "2026-03-24T09:08:39.421655",
+    "blockchain": "Ethereum",
+    "type": "DeFi Protocol",
+    "description": "Cross-chain yield aggregation with advanced liquidity management",
+    "potential_score": 2,
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "DecentralizedID",
+    "date": "2026-04-08T09:08:39.421667",
+    "blockchain": "Polygon",
+    "type": "Identity Solution",
+    "description": "Privacy-preserving identity verification for web3 applications",
+    "potential_score": 3,
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "CrossBridge",
+    "date": "2026-03-16T09:08:39.421670",
+    "blockchain": "Multi-Chain",
+    "type": "Interoperability Protocol",
+    "description": "Advanced cross-chain asset transfer and liquidity management",
+    "potential_score": 3,
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  },
+  {
+    "name": "SecureStake",
+    "date": "2026-03-31T09:08:39.421671",
+    "blockchain": "Ethereum",
+    "type": "Staking Platform",
+    "description": "Enterprise-grade staking with advanced security features",
+    "potential_score": 2,
+    "audit_offer": {
+      "basic_scan": 50,
+      "comprehensive_audit": 500
+    }
+  }
+]
