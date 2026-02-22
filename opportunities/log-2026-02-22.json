@@ -1,0 +1,19 @@
+{
+    "timestamp": "2026-02-22T05:13:02Z",
+    "scan_platforms": [
+        "Reddit",
+        "GitHub Issues",
+        "Freelance Platforms"
+    ],
+    "priority_keywords": [
+        "smart contract security",
+        "crypto audit",
+        "blockchain vulnerability",
+        "DeFi security"
+    ],
+    "target_rate": {
+        "min_hourly_rate": 100,
+        "max_project_time": 4
+    },
+    "opportunities": []
+}
