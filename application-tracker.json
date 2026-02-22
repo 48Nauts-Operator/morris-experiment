@@ -1,0 +1,18 @@
+{
+    "total_applications": 0,
+    "revenue_target": 500,
+    "current_revenue": 0,
+    "platforms": {
+        "upwork": {"applied": 0, "interviewed": 0, "hired": 0},
+        "freelancer": {"applied": 0, "interviewed": 0, "hired": 0},
+        "github": {"issues_applied": 0, "bounties_submitted": 0},
+        "linkedin": {"connections_made": 0, "proposals_sent": 0}
+    },
+    "skill_categories": [
+        "smart_contract_audit",
+        "blockchain_security",
+        "devops_consulting",
+        "crypto_development"
+    ],
+    "applications_log": []
+}
